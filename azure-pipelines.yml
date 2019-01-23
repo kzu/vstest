@@ -23,7 +23,6 @@ steps:
      **\*Tests*.dll
      !**\*TestAdapter.dll
      !**\obj\**
-    rerunFailedTests: true
     runInParallel: true
     codeCoverageEnabled: true
     diagnosticsEnabled: false
